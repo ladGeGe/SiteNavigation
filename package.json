@@ -1,0 +1,26 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny nodejs static web server",
+  "main": "./src/app.js",
+  "scripts": {
+    "gulp": "gulp",
+    "start": "supervisor ./src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:lagege/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "del": "^4.1.1",
+    "eslint": "^6.0.1",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "handlebars": "^4.1.2",
+    "mockjs": "^1.0.1-beta3"
+  }
+}

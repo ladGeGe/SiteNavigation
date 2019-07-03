@@ -1,0 +1,34 @@
+{
+    "apps": [{
+        "id": 1,
+        "ionic": "glyphicon glyphicon-euro",
+        "title": "百度_app",
+        "url": "http://www.baidu.com"
+    }, {
+        "id": 2,
+        "ionic": "glyphicon glyphicon-flag",
+        "title": "新浪_app",
+        "url": "http://www.sina.com"
+    }],
+    "websites": [{
+        "id": 1,
+        "title": "机动车信息管理平台",
+        "url": "tn3270://ovdhmgwvpl.cm/bqtou"
+    }, {
+        "id": 2,
+        "title": "机动车信息管理平台",
+        "url": "tn3270://ovdhmgwvpl.cm/bqtou"
+    }, {
+        "id": 3,
+        "title": "机动车信息管理平台",
+        "url": "tn3270://ovdhmgwvpl.cm/bqtou"
+    }, {
+        "id": 4,
+        "title": "机动车信息管理平台",
+        "url": "tn3270://ovdhmgwvpl.cm/bqtou"
+    }, {
+        "id": 5,
+        "title": "机动车信息管理平台",
+        "url": "tn3270://ovdhmgwvpl.cm/bqtou"
+    }]
+}
